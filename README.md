@@ -2,7 +2,7 @@ Elevate Your Playlist with Cosine Similarity-Based Song Recommender
 
 I'm excited to share a project that I've been working on recently – a cutting-edge Song Recommender System! 🎧🔥
 
-As a passionate tech enthusiast, I've always been intrigued by the power of AI and its ability to enhance our everyday experiences. That's why I decided to combine my two passions and create a Song Recommender System!
+As a passionate tech enthusiast, I've always been intrigued by the power of AI and its ability to enhance our everyday experiences.
 
 🚀 Key Features of this Song Recommender System: 🚀
 
